@@ -12,7 +12,7 @@ class prankcall {
     }
     private function correct($no) {
         $cek = substr($no, 0, 2);
-        if ($cek == "08") {
+        if ($cek == "249") {
             $no = "249" . substr($no, 1);
         }
         return $no;
@@ -21,7 +21,7 @@ class prankcall {
         $no = $this->correct($this->number);
         $rand = rand(0123456, 9999999);
         $rands = $this->randStr(12);
-        $post = "method=CALL&countryCode=id&phoneNumber=$no&templateID=pax_android_production";
+        $post = "method=CALL&countryCode=sd&phoneNumber=$no&templateID=pax_android_production";
         $h[] = "x-request-id: ebf61bc3-8092-4924-bf45-$rands";
         $h[] = "Accept-Language: in-ID;q=1.0, en-us;q=0.9, en;q=0.8";
         $h[] = "User-Agent: Grab/5.20.0 (Android 6.0.1; Build $rand)";
@@ -104,7 +104,7 @@ Completed!
             }
         }
         if ($loop == "y") {
-            echo "\e[97m[?] JumlahSpam Korban ==> \e[92m";
+            echo "\e[97m[?] Jumlah Spam Korban ==> \e[92m";
             $many = $this->get();
             $this->loop($many);
         } else {
