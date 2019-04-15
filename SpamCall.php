@@ -139,7 +139,7 @@ echo "\e[97m================================================
 	  [\e[93m+\e[97m] \e[95mGRAB CALL SPAMMER \e[97m[\e[93m+\e[97m]
 
  \e[97mCoded by  : \e[92mMIFTAHUDIN
- \e[97mFacebook  : \e[90mhttps://www.facebook.com/mifkrn
+ \e[97mFacebook  : \e[90mhttps://www.facebook.com/mifkr
  \e[97mWhatsApp  : \e[93m+62821-1378-2871
  \e[97mGithub    : \e[90mhttps://github.com/mifkrn/
  \e[97mVersi     : \e[90m3.0
