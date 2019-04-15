@@ -1,6 +1,4 @@
-/* Decoded by unphp.net */
-
-<?php ?><?php
+<?php
 system('clear');
 function get() {
     return trim(fgets(STDIN));
