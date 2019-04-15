@@ -12,7 +12,7 @@ class prankcall {
     }
     private function correct($no) {
         $cek = substr($no, 0, 2);
-        if ($cek == "249") {
+        if ($cek == "08") {
             $no = "249" . substr($no, 1);
         }
         return $no;
