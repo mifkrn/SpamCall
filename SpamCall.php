@@ -144,7 +144,7 @@ echo "\e[97m================================================
  \e[97mGithub    : \e[90mhttps://github.com/mifkrn/
  \e[97mVersi     : \e[90m3.0
  \e[97mPendukung : \e[90mGoogle 
- \e[97mUpdate    : \e[90m15-April-2019
+ \e[97mUpdate    : \e[90m14-April-2019
 \e[97m================================================
 ";
 system('echo');
