@@ -1,1 +1,1 @@
-# SpamCall by MIFTAHUDIN
+Script by MIFTAHUDIN
